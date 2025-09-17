@@ -1,0 +1,17 @@
+F:\BUSINESS\TelegramBot API\AccessLayer\bin\Debug\net8.0\DataLayer.deps.json
+F:\BUSINESS\TelegramBot API\AccessLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+F:\BUSINESS\TelegramBot API\AccessLayer\bin\Debug\net8.0\DataLayer.dll
+F:\BUSINESS\TelegramBot API\AccessLayer\bin\Debug\net8.0\DataLayer.pdb
+F:\BUSINESS\TelegramBot API\AccessLayer\bin\Debug\net8.0\Entities.dll
+F:\BUSINESS\TelegramBot API\AccessLayer\bin\Debug\net8.0\Entities.pdb
+F:\BUSINESS\TelegramBot API\AccessLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+F:\BUSINESS\TelegramBot API\AccessLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\BUSINESS\TelegramBot API\AccessLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+F:\BUSINESS\TelegramBot API\AccessLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+F:\BUSINESS\TelegramBot API\AccessLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+F:\BUSINESS\TelegramBot API\AccessLayer\obj\Debug\net8.0\DataLayer.csproj.Up2Date
+F:\BUSINESS\TelegramBot API\AccessLayer\obj\Debug\net8.0\DataLayer.dll
+F:\BUSINESS\TelegramBot API\AccessLayer\obj\Debug\net8.0\refint\DataLayer.dll
+F:\BUSINESS\TelegramBot API\AccessLayer\obj\Debug\net8.0\DataLayer.pdb
+F:\BUSINESS\TelegramBot API\AccessLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+F:\BUSINESS\TelegramBot API\AccessLayer\obj\Debug\net8.0\ref\DataLayer.dll

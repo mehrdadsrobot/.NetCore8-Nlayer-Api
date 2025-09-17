@@ -1,0 +1,12 @@
+F:\BUSINESS\TelegramBot API\Entities\bin\Debug\net8.0\Entities.deps.json
+F:\BUSINESS\TelegramBot API\Entities\bin\Debug\net8.0\Entities.dll
+F:\BUSINESS\TelegramBot API\Entities\bin\Debug\net8.0\Entities.pdb
+F:\BUSINESS\TelegramBot API\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\BUSINESS\TelegramBot API\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+F:\BUSINESS\TelegramBot API\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+F:\BUSINESS\TelegramBot API\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+F:\BUSINESS\TelegramBot API\Entities\obj\Debug\net8.0\Entities.dll
+F:\BUSINESS\TelegramBot API\Entities\obj\Debug\net8.0\refint\Entities.dll
+F:\BUSINESS\TelegramBot API\Entities\obj\Debug\net8.0\Entities.pdb
+F:\BUSINESS\TelegramBot API\Entities\obj\Debug\net8.0\ref\Entities.dll
+F:\BUSINESS\TelegramBot API\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache

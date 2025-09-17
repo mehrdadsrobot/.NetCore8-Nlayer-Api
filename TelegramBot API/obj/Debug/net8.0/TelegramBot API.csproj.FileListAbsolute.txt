@@ -1,0 +1,156 @@
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\TelegramBot API.csproj.AssemblyReference.cache
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\TelegramBot API.GeneratedMSBuildEditorConfig.editorconfig
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\TelegramBot API.AssemblyInfoInputs.cache
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\TelegramBot API.AssemblyInfo.cs
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\TelegramBot API.csproj.CoreCompileInputs.cache
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\TelegramBot API.MvcApplicationPartsAssemblyInfo.cs
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\TelegramBot API.MvcApplicationPartsAssemblyInfo.cache
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\appsettings.Development.json
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\appsettings.json
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\TelegramBot API.exe
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\TelegramBot API.deps.json
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\TelegramBot API.runtimeconfig.json
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\TelegramBot API.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\TelegramBot API.pdb
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\AutoMapper.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Azure.Core.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Azure.Identity.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Humanizer.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\System.ClientModel.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\System.CodeDom.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\System.Memory.Data.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\ApiFrameWork.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Common.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\DataLayer.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Entities.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\ServicesLayer.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\ApiFrameWork.pdb
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Common.pdb
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\DataLayer.pdb
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Entities.pdb
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\ServicesLayer.pdb
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\staticwebassets.build.json
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\staticwebassets.development.json
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\staticwebassets\msbuild.TelegramBot API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\staticwebassets\msbuild.build.TelegramBot API.props
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TelegramBot API.props
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TelegramBot API.props
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\staticwebassets.pack.json
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\scopedcss\bundle\TelegramBot API.styles.css
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\Telegram.9E21EA23.Up2Date
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\TelegramBot API.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\refint\TelegramBot API.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\TelegramBot API.pdb
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\TelegramBot API.genruntimeconfig.cache
+F:\BUSINESS\TelegramBot API\TelegramBot API\obj\Debug\net8.0\ref\TelegramBot API.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\System.Text.Json.dll
+F:\BUSINESS\TelegramBot API\TelegramBot API\bin\Debug\net8.0\Telegram.Bot.dll
